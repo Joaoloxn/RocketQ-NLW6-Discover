@@ -22,4 +22,4 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ---
 
-Obrigado Rocketseat por ter nos dado essa oportunidade de desenvolvermos este projeto junto💜
+Obrigado Rocketseat por ter nos dado essa oportunidade de desenvolvermos este projeto juntos💜
