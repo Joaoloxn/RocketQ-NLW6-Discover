@@ -1,4 +1,4 @@
-https://github.com/Joaoloxn/nlw6-discover/raw/main/.github/Rocket_Q.png
+![image](https://user-images.githubusercontent.com/77245207/124510685-bbcec080-ddaa-11eb-91a7-b07c9c2e3ed6.png)
 
 ## 🚀 Tecnologias
 
