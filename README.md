@@ -1,4 +1,4 @@
-
+https://github.com/Joaoloxn/nlw6-discover/raw/main/.github/Rocket_Q.png
 
 ## 🚀 Tecnologias
 
@@ -20,10 +20,6 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Obrigado Rocketseat por ter nos dado essa oportunidade de desenvolvermos este projeto junto💜
